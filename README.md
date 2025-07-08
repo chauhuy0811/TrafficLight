@@ -1,2 +1,2 @@
 # TrafficLight
-raffic light system simulation using Keil C and Proteus
+Traffic light system simulation using Keil C and Proteus
